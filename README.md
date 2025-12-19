@@ -44,21 +44,21 @@ WebGIS Pariwisata Sleman dikembangkan sebagai media visualisasi dan analisis ber
 ### 1. Landing Page
 Menampilkan judul aplikasi, deskripsi singkat, dan latar visual objek wisata sebagai pengantar analisis WebGIS.  
 
-![Landing Page](img/LandingPages.jpg)
+![Landing Page](img/LandingPages.png)
 
 ---
 
 ### 2. Tampilan Peta Interaktif
 Menunjukkan sebaran objek wisata, jaringan jalan, dan batas administrasi Kabupaten Sleman dalam peta interaktif berbasis Leaflet dan GeoServer.  
 
-![Map View](img/MapView.jpg)
+![Map View](img/MapView.png)
 
 ---
 
 ### 3. Analisis dan Visualisasi Data
 Menyajikan tabel jumlah kunjungan wisatawan serta analisis keterkaitan antara intensitas kunjungan dan aksesibilitas jalan utama.  
 
-![Analysis View](img/Analysis.jpg)
+![Analysis View](img/Analysis.png)
 
 ---
 
